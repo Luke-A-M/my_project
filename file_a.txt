@@ -2,3 +2,5 @@ test file a, stuff
 testing push to add text
 A change made in the remote
 A change made locally to setup conflict
+A remote change to setup conflict
+Conflict resolved - both lines kept
